@@ -1,2 +1,3 @@
 # hello_world
-Just another repository
+HI humans:
+PENGTH here,I like node.js anf Coffeescripe balabalabala~~~
